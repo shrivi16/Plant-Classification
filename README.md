@@ -7,3 +7,7 @@ Dataset_formatting.py - creates the dataset of features using the ImageMethods.p
 SamplePlant.jpg - This image is used as a sample in the Jupyter Notebook.
 
 The graph file shows the comparison od the RFC with the SVM classifier.
+
+PlantFeature.csv - This is the dataset used to train the classification models.
+
+Final plant classification model (jupyter) - explains all the coding used in the project
